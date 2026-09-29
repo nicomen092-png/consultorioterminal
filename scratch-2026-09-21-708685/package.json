@@ -1,0 +1,13 @@
+﻿{
+  "name": "historias-clinicas-paliza",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Prototipo de historias clínicas - Dr. Paliza Consultorios",
+  "scripts": {
+    "dev": "netlify dev",
+    "dev:local": "node dev-server.js"
+  },
+  "dependencies": {
+    "google-auth-library": "^9.14.0"
+  }
+}
